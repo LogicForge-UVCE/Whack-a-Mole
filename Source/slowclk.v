@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: S UJWAL NIRANJAN
+// Engineer:
 // 
 // Create Date: 26.12.2024 19:27:41
 // Design Name: SLOW CLOCK (0.01sec CLOCK) (100Hz)
