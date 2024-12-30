@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: S UJWAL NIRANJAN
+// Engineer:
 // 
 // Create Date: 26.12.2024 19:59:58
 // Design Name: 1 SECOND CLOCK
